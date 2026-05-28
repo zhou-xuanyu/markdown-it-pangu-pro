@@ -34,7 +34,7 @@ npm install github:Zhou-Xuanyu/markdown-it-pangu-pro
 
 ```js
 import markdownIt from "markdown-it";
-import markdownItPanguPro from "Zhou-Xuanyu/markdown-it-pangu-pro";
+import markdownItPanguPro from "markdown-it-pangu-pro";
 
 const md = markdownIt();
 md.use(markdownItPanguPro);
