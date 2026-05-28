@@ -4,8 +4,12 @@
   "description": "markdown-it plugin for CJK/Latin pangu spacing",
   "type": "module",
   "main": "index.js",
+  "exports": "./index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts"],
   "keywords": ["markdown-it", "pangu", "cjk", "typography"],
   "license": "MIT",
+  "author": "Zhou-Xuanyu",
   "peerDependencies": {
     "markdown-it": ">=12"
   }

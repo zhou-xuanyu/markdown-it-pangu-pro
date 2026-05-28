@@ -27,6 +27,12 @@ The gap span uses inline styles, so no external CSS is required.
 ## Install
 
 ```sh
+npm install markdown-it-pangu-pro
+```
+
+Or directly from GitHub:
+
+```sh
 npm install github:Zhou-Xuanyu/markdown-it-pangu-pro
 ```
 
